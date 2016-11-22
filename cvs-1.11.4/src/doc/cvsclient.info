@@ -1,0 +1,40 @@
+This is cvsclient.info, produced by makeinfo version 4.2 from
+cvsclient.texi.
+
+INFO-DIR-SECTION Programming
+START-INFO-DIR-ENTRY
+* cvsclient: (cvsclient).      The CVS client/server protocol.
+END-INFO-DIR-ENTRY
+
+
+Indirect:
+cvsclient.info-1: 212
+cvsclient.info-2: 24953
+cvsclient.info-3: 64247
+
+Tag Table:
+(Indirect)
+Node: Top212
+Node: Introduction1033
+Node: Goals3567
+Node: Connection and Authentication6491
+Node: Password scrambling12729
+Node: Protocol14596
+Node: Entries Lines16681
+Node: File Modes17783
+Node: Filenames19321
+Node: File transmissions20628
+Node: Strings22186
+Node: Dates22869
+Node: Request intro23933
+Node: Requests24953
+Node: Response intro60969
+Node: Response pathnames62336
+Node: Responses64247
+Node: Text tags80265
+Node: Example81979
+Node: Requirements85758
+Node: Obsolete86666
+Node: Protocol Notes87404
+
+End Tag Table
